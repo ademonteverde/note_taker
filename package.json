@@ -1,0 +1,16 @@
+{
+  "name": "note_taker",
+  "version": "1.0.0",
+  "description": "note-taker",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Andre Carlo Demonteverde",
+  "license": "ISC",
+  "keywords": [],
+  "dependencies": {
+    "express": "^4.18.2",
+    "uuid": "^9.0.1"
+  }
+}
