@@ -57,7 +57,7 @@ The following image demonstrates the web application's appearance and functional
 
 ## Link to deployed application:
 
-[https://ademonteverde.github.io/note_taker/](https://ademonteverde.github.io/note_taker/)
+[https://boiling-castle-91538-a769d3f751b6.herokuapp.com/](https://boiling-castle-91538-a769d3f751b6.herokuapp.com/)
 
 ## License
 
