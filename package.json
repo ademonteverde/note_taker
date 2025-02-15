@@ -4,7 +4,8 @@
   "description": "note-taker",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "node index.js",
+    "build": "echo 'No build required for Express.js'"
   },
   "author": "Andre Carlo Demonteverde",
   "license": "ISC",
